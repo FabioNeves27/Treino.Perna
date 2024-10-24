@@ -1,0 +1,16 @@
+.treino{
+    margin: auto;
+    width: 90%;
+}
+body{
+    background-color:antiquewhite;
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.title{
+    text-align: center;
+}
